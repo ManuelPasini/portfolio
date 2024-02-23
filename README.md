@@ -1,6 +1,6 @@
 # portfolio
 Ciao sono Manuel
-- Questo
+- Questo ᏂΛςк
 - è
 - il mio portfolio
 ---
